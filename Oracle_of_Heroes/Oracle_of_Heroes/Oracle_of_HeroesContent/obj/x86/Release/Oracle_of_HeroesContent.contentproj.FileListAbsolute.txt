@@ -1,1 +1,2 @@
 C:\Users\Jam\Desktop\Oracle Of Heroes\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_HeroesContent\obj\x86\Release\Oracle_of_HeroesContent.contentprojResolveAssemblyReference.cache
+C:\Users\Jam\Desktop\Oracle Of Heroes Demo\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_HeroesContent\obj\x86\Release\Oracle_of_HeroesContent.contentprojResolveAssemblyReference.cache

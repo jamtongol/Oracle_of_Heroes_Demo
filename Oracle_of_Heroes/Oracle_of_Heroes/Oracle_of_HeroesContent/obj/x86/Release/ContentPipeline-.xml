@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Jam\Desktop\Oracle Of Heroes\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\bin\x86\Release\Content\Sprites\Map\flower.xnb</Output>
+      <Output>C:\Users\Jam\Desktop\Oracle Of Heroes Demo\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\bin\x86\Release\Content\Sprites\Map\flower.xnb</Output>
       <Time>2015-08-13T20:25:39.3499081-04:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Jam\Desktop\Oracle Of Heroes\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\bin\x86\Release\Content\Sprites\Map\wall.xnb</Output>
+      <Output>C:\Users\Jam\Desktop\Oracle Of Heroes Demo\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\bin\x86\Release\Content\Sprites\Map\wall.xnb</Output>
       <Time>2015-08-13T20:25:39.3569132-04:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Jam\Desktop\Oracle Of Heroes\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\bin\x86\Release\Content\Sprites\Map\wave.xnb</Output>
+      <Output>C:\Users\Jam\Desktop\Oracle Of Heroes Demo\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\bin\x86\Release\Content\Sprites\Map\wave.xnb</Output>
       <Time>2015-08-13T20:25:39.361916-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -35,10 +35,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Release</BuildConfiguration>
       <CompressContent>true</CompressContent>
-      <RootDirectory>C:\Users\Jam\Desktop\Oracle Of Heroes\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_HeroesContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Jam\Desktop\Oracle Of Heroes\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Jam\Desktop\Oracle Of Heroes\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_HeroesContent\obj\x86\Release\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Jam\Desktop\Oracle Of Heroes\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\bin\x86\Release\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Jam\Desktop\Oracle Of Heroes Demo\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_HeroesContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jam\Desktop\Oracle Of Heroes Demo\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jam\Desktop\Oracle Of Heroes Demo\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_HeroesContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jam\Desktop\Oracle Of Heroes Demo\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\bin\x86\Release\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

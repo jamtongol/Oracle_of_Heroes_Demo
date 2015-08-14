@@ -10,3 +10,15 @@ C:\Users\Jam\Desktop\Oracle Of Heroes\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_o
 C:\Users\Jam\Desktop\Oracle Of Heroes\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\bin\x86\Release\Content\Sprites\Map\flower.xnb
 C:\Users\Jam\Desktop\Oracle Of Heroes\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\bin\x86\Release\Content\Sprites\Map\wall.xnb
 C:\Users\Jam\Desktop\Oracle Of Heroes\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\bin\x86\Release\Content\Sprites\Map\wave.xnb
+C:\Users\Jam\Desktop\Oracle Of Heroes Demo\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\bin\x86\Release\Content\Sprites\Map\flower.xnb
+C:\Users\Jam\Desktop\Oracle Of Heroes Demo\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\bin\x86\Release\Content\Sprites\Map\wall.xnb
+C:\Users\Jam\Desktop\Oracle Of Heroes Demo\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\bin\x86\Release\Content\Sprites\Map\wave.xnb
+C:\Users\Jam\Desktop\Oracle Of Heroes Demo\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\bin\x86\Release\Oracle_of_Heroes.exe.config
+C:\Users\Jam\Desktop\Oracle Of Heroes Demo\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\bin\x86\Release\Oracle_of_Heroes.exe
+C:\Users\Jam\Desktop\Oracle Of Heroes Demo\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\bin\x86\Release\Oracle_of_Heroes.pdb
+C:\Users\Jam\Desktop\Oracle Of Heroes Demo\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\bin\x86\Release\lua51.dll
+C:\Users\Jam\Desktop\Oracle Of Heroes Demo\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\bin\x86\Release\LuaInterface.dll
+C:\Users\Jam\Desktop\Oracle Of Heroes Demo\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\obj\x86\Release\Oracle_of_Heroes.csprojResolveAssemblyReference.cache
+C:\Users\Jam\Desktop\Oracle Of Heroes Demo\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jam\Desktop\Oracle Of Heroes Demo\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\obj\x86\Release\Oracle_of_Heroes.exe
+C:\Users\Jam\Desktop\Oracle Of Heroes Demo\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\obj\x86\Release\Oracle_of_Heroes.pdb

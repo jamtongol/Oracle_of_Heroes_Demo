@@ -9,6 +9,12 @@ In this demo, the engine shows how it renders it's tile engine using only a data
 (Oracle_of_Heroes\Oracle_of_Heroes\bin\x86\Debug\Content\test.data for debugging mode or
 Oracle_of_Heroes\Oracle_of_Heroes\bin\x86\Debug\Content for release mode).
 
+The scripts for this demo can be found in Oracle_of_Heroes\Oracle_of_Heroes\Scripts. These scripts include:
+Sprite.cs	- defines the sprite class
+Tile.cs		- defines the tile class, a child class of a sprite
+TileMap.cs	- defines the tile map class
+ISprite.cs	- defines an ISprite interface
+
 #######################################################
 # Requirements
 #######################################################

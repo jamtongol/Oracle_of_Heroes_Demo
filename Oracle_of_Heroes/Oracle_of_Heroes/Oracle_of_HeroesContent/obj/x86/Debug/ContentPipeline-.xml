@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\Map\flower.png</Source>
+      <Name>Sprites\Map\flower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jam\Desktop\Oracle Of Heroes\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\bin\x86\Debug\Content\Sprites\Map\flower.xnb</Output>
+      <Time>2015-08-13T20:25:39.3499081-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Map\wall.png</Source>
+      <Name>Sprites\Map\wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jam\Desktop\Oracle Of Heroes\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\bin\x86\Debug\Content\Sprites\Map\wall.xnb</Output>
+      <Time>2015-08-13T20:25:39.3569132-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Map\wave.png</Source>
+      <Name>Sprites\Map\wave</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jam\Desktop\Oracle Of Heroes\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\bin\x86\Debug\Content\Sprites\Map\wave.xnb</Output>
+      <Time>2015-08-13T20:25:39.361916-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID Null="true" />
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Jam\Desktop\Oracle Of Heroes\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_HeroesContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jam\Desktop\Oracle Of Heroes\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jam\Desktop\Oracle Of Heroes\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_HeroesContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jam\Desktop\Oracle Of Heroes\Oracle_of_Heroes\Oracle_of_Heroes\Oracle_of_Heroes\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-07-29T22:49:23.105594-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
